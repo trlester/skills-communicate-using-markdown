@@ -3,3 +3,5 @@
 ##### header 5
 
 I added headers of varying sizes to simulate using markdown.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
